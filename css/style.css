@@ -1,0 +1,38 @@
+/* section 2  style */
+.div-box {
+    display: flex;
+    width: 100%;
+    background-color: lightgrey;
+}
+.gray-text {
+    color: black;
+    width: 335.35px;
+    margin-top: 16px;
+}
+.img-div {
+    display: flex;
+    align-items: center;
+}
+.image {
+    margin-right: 16px;
+}
+.box1 {
+    margin-top: 64px;
+    margin-bottom: 64px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.distance {
+    margin-right: 30px;
+}
+.title1 {
+    color: #000000;
+}
+/* section 4 style */
+.sec-img {
+    background-image: url('../image/CTAImg-Wide-1440px+-New.jpg');
+    height: 564px;
+}
+.sec-imgtext{
+    color: white;
+}
